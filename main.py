@@ -40,7 +40,7 @@ agent = Agent(
 )
 
 # Streamlit UI
-st.set_page_config(page_title="Gemini Chatbot", page_icon="💬")
+st.set_page_config(page_title="AI Assistant Chatbot", page_icon="💬")
 st.title("🤖 Maryam AI Assistant")
 
 # Session State Initialization
